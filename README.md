@@ -140,6 +140,31 @@ For the Easy target, a relatively small filtered HMMER alignment performed almos
 For the Hard target, adding a very small number of sequences did not necessarily improve prediction accuracy.
 
 Because only three proteins were examined, these results should be interpreted as a **case study rather than a universal relationship**.
+## Evaluation Metrics
+
+The predictions were evaluated using:
+
+- **pLDDT** — AlphaFold2 local confidence
+- **pTM** — AlphaFold2 global confidence
+- **TM-score** — global structural similarity to experiment
+- **Cα-lDDT** — local structural agreement
+- **Cα RMSD** — coordinate deviation after structural superposition
+- **RMSD100** — RMSD normalized for protein length
+
+Full methodological details are available in:
+
+`docs/methods.md`
+
+Detailed interpretation is available in:
+
+`analysis/analysis_summary.md`
+
+## Important Limitation
+
+This project contains only three targets, and the amount of experimentally resolved structure differs among them.
+
+The results therefore demonstrate target-specific trends rather than establishing a general causal relationship between MSA depth and AlphaFold2 accuracy.
+
 
 ## Repository Structure
 
