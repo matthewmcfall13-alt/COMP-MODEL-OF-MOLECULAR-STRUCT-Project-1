@@ -1,0 +1,8 @@
+# CPU-only local preparation, parsing, plotting, notebook execution and tests.
+numpy>=1.23,<3
+biopython>=1.81,<2
+matplotlib>=3.6,<4
+nbformat>=5.7,<6
+nbclient>=0.8,<1
+ipykernel>=6,<8
+pytest>=7,<10

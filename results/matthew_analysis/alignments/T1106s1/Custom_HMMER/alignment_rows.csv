@@ -1,0 +1,131 @@
+row_index,is_query,coverage,identity_to_query,identity_denominator,sequence_header
+0,True,1.0,1.0,122,T1106s1
+1,False,1.0,0.9918032786885246,122,A0A0E1NL21/1-122 [subseq from] Type III secretion protein
+2,False,1.0,0.9918032786885246,122,A0A0N9NLE6/1-122 [subseq from] Translocation protein YopX
+3,False,0.9918032786885246,0.6611570247933884,121,A0A0W7U418/1-121 [subseq from] Type III secretion protein
+4,False,0.9918032786885246,0.6611570247933884,121,A0A0S2SEN5/1-121 [subseq from] Yop proteins translocation protein X
+5,False,0.9836065573770492,0.5416666666666666,120,A0A142E283/2-121 [subseq from] YscX family type III secretion protein
+6,False,0.9836065573770492,0.5416666666666666,120,A0AAU6UBA0/2-121 [subseq from] Type III secretion system protein AscX
+7,False,0.9836065573770492,0.5416666666666666,120,A0AAX2UZP4/2-121 [subseq from] YscX family type III secretion protein
+8,False,0.9836065573770492,0.5416666666666666,120,A0A653L440/2-121 [subseq from] Yop proteins translocation protein X
+9,False,0.9836065573770492,0.5416666666666666,120,A0AAW7HYX0/2-121 [subseq from] Type III secretion system protein AscX
+10,False,0.9836065573770492,0.5416666666666666,120,A4SUH4/2-121 [subseq from] AscX protein
+11,False,0.9836065573770492,0.5333333333333333,120,A0A7T2PJ05/2-121 [subseq from] Type III secretion system protein AscX
+12,False,0.9836065573770492,0.5166666666666667,120,A0A2M8HCH8/2-121 [subseq from] YscX family type III secretion protein
+13,False,0.9836065573770492,0.5333333333333333,120,A0A2T4N7Y8/2-121 [subseq from] YscX family type III secretion protein
+14,False,0.9836065573770492,0.5333333333333333,120,A0A6S5C6M6/2-121 [subseq from] YscX family type III secretion protein
+15,False,0.9836065573770492,0.5333333333333333,120,Q699R5/2-121 [subseq from] AscX
+16,False,0.9836065573770492,0.5166666666666667,120,A0A3N6XP09/2-121 [subseq from] YscX family type III secretion protein
+17,False,0.9836065573770492,0.5333333333333333,120,Q5CCA2/2-121 [subseq from] AscX protein
+18,False,0.9836065573770492,0.5333333333333333,120,A0AAW5M9V7/2-121 [subseq from] Type III secretion system protein AscX
+19,False,0.9836065573770492,0.525,120,A0A2S5FEV7/2-121 [subseq from] YscX family type III secretion protein
+20,False,0.9836065573770492,0.5,120,A0AAD3YKX6/2-121 [subseq from] Type III secretion system protein AscX
+21,False,0.9836065573770492,0.5,120,Q6TLM7/5-124 [subseq from] AscX
+22,False,0.9836065573770492,0.5,120,N9U4T0/2-121 [subseq from] Type III secretion protein
+23,False,0.9836065573770492,0.5,120,A0AAX0XRY6/2-121 [subseq from] YscX family type III secretion protein
+24,False,0.9836065573770492,0.5,120,Q5XL09/2-121 [subseq from] AscX
+25,False,0.9836065573770492,0.5,120,K1KA70/2-121 [subseq from] YscX family type III secretion protein
+26,False,0.9836065573770492,0.5083333333333333,120,A0AAQ0J079/2-121 [subseq from] Type III secretion system protein AscX
+27,False,0.9836065573770492,0.48333333333333334,120,A0A263NZL9/2-121 [subseq from] YscX family type III secretion protein
+28,False,0.9836065573770492,0.48333333333333334,120,A0A7Y1QM54/2-121 [subseq from] YscX family type III secretion protein
+29,False,0.9836065573770492,0.48333333333333334,120,A0A5B2V4H9/2-121 [subseq from] YscX family type III secretion protein
+30,False,0.9836065573770492,0.48333333333333334,120,"A0A2G0YLB0/2-121 [subseq from] Type III secretion protein, YscX family"
+31,False,0.9754098360655737,0.4957983193277311,119,A0AAQ3LJD2/3-121 [subseq from] Type III secretion system protein PscX
+32,False,0.9836065573770492,0.48333333333333334,120,A0A4R4K4B6/2-121 [subseq from] YscX family type III secretion protein
+33,False,0.9836065573770492,0.49166666666666664,120,A0A119A0Q7/2-121 [subseq from] Yop proteins translocation protein X
+34,False,0.9836065573770492,0.49166666666666664,120,A0A0J6IQI7/2-121 [subseq from] Type III secretion protein
+35,False,0.9918032786885246,0.48760330578512395,121,A0A7X5QK32/1-121 [subseq from] YscX family type III secretion protein
+36,False,0.9918032786885246,0.4793388429752066,121,A0A7X5TEP2/1-121 [subseq from] YscX family type III secretion protein
+37,False,0.9918032786885246,0.48760330578512395,121,A0A0F7LKF3/1-121 [subseq from] Type III secretion protein
+38,False,0.9918032786885246,0.48760330578512395,121,U7QXR0/1-121 [subseq from] Type III secretion protein
+39,False,0.9754098360655737,0.48739495798319327,119,A0A3S4RMA9/3-121 [subseq from] Type III secretion protein
+40,False,0.9754098360655737,0.48739495798319327,119,G3XD37/3-121 [subseq from] Uncharacterized protein
+41,False,0.9918032786885246,0.4793388429752066,121,A0A5B0X6A0/1-121 [subseq from] YscX family type III secretion protein
+42,False,0.9754098360655737,0.47058823529411764,119,A0A1G5PYL3/3-121 [subseq from] Type III secretion protein X
+43,False,0.9754098360655737,0.47058823529411764,119,A0A4R4JBM4/3-121 [subseq from] YscX family type III secretion protein
+44,False,0.9754098360655737,0.48739495798319327,119,A0A643ISD7/3-121 [subseq from] YscX family type III secretion protein
+45,False,0.9754098360655737,0.48739495798319327,119,A0A5E9KK29/3-121 [subseq from] YscX family type III secretion protein
+46,False,0.9754098360655737,0.48739495798319327,119,A0A6N0KHE7/3-121 [subseq from] Type III secretion system protein PscX
+47,False,0.9754098360655737,0.48739495798319327,119,A0A0H2Z8F6/3-121 [subseq from] Uncharacterized protein
+48,False,0.9918032786885246,0.47107438016528924,121,A0A1C0U9P7/1-121 [subseq from] Yop proteins translocation protein X
+49,False,0.9754098360655737,0.47058823529411764,119,A0A329W3I0/3-121 [subseq from] YscX family type III secretion protein
+50,False,0.9754098360655737,0.47058823529411764,119,A0A329VS23/3-121 [subseq from] YscX family type III secretion protein
+51,False,0.9754098360655737,0.47058823529411764,119,A0A329X8Z4/3-121 [subseq from] YscX family type III secretion protein
+52,False,0.9754098360655737,0.47058823529411764,119,A0A329VU28/3-121 [subseq from] YscX family type III secretion protein
+53,False,0.9754098360655737,0.47058823529411764,119,Q7N0W6/3-121 [subseq from] Type III secretion protein SctX
+54,False,0.9754098360655737,0.48739495798319327,119,A0A6A9JQA9/3-121 [subseq from] Type III secretion system protein PscX
+55,False,0.9754098360655737,0.47058823529411764,119,"A0A022PSV2/3-121 [subseq from] Type III secretion protein, YscX family"
+56,False,0.9754098360655737,0.47058823529411764,119,A0A1B8YMB7/3-121 [subseq from] Yop proteins translocation protein X
+57,False,0.9754098360655737,0.47058823529411764,119,Q84GZ0/3-121 [subseq from] LssB
+58,False,0.9918032786885246,0.47107438016528924,121,B6VK31/1-121 [subseq from] Type iii secretion protein sctx
+59,False,0.9836065573770492,0.475,120,"A0A423LHN4/2-121 [subseq from] Type III secretion protein, YscX family"
+60,False,0.9836065573770492,0.4666666666666667,120,A0A6N3UIH8/2-121 [subseq from] YscX family type III secretion protein
+61,False,0.9836065573770492,0.4666666666666667,120,A0AAX2HBG4/2-121 [subseq from] Yop proteins translocation protein X
+62,False,0.9836065573770492,0.4,120,A0A166JEZ9/1-124 [subseq from] Type III secretion protein
+63,False,0.9590163934426229,0.4017094017094017,117,A0A178JEX1/4-124 [subseq from] Type III secretion protein
+64,False,0.9590163934426229,0.39316239316239315,117,A0A177XTX6/4-124 [subseq from] Type III secretion protein
+65,False,0.9590163934426229,0.4017094017094017,117,A0AAE7DWR1/4-124 [subseq from] Type III secretion system protein VscX
+66,False,0.9836065573770492,0.4083333333333333,120,A0A2A2NDJ1/1-124 [subseq from] YscX family type III secretion protein
+67,False,0.9590163934426229,0.39316239316239315,117,A0A0H2MQI8/4-124 [subseq from] Type III secretion protein
+68,False,0.9836065573770492,0.38333333333333336,120,"A0A1B9PSC1/1-124 [subseq from] Type III secretion protein, YscX family"
+69,False,0.9836065573770492,0.4,120,A0AAE9MX87/1-124 [subseq from] Type III secretion system protein VscX
+70,False,0.9590163934426229,0.37606837606837606,117,A0A9E6B2T1/4-124 [subseq from] YscX family type III secretion protein
+71,False,0.9836065573770492,0.39166666666666666,120,A0A2T3QCT0/1-124 [subseq from] Yop proteins translocation protein X
+72,False,0.9836065573770492,0.39166666666666666,120,A0A812GDU9/1-124 [subseq from] Yop proteins translocation protein X
+73,False,0.9836065573770492,0.39166666666666666,120,"A0AAU9QEP2/1-124 [subseq from] Type III secretion protein, YscX family"
+74,False,0.9836065573770492,0.39166666666666666,120,"A0A2N7N4X3/1-124 [subseq from] Type III secretion protein, YscX family"
+75,False,0.9836065573770492,0.39166666666666666,120,A0AAQ3AZS1/1-124 [subseq from] Type III secretion system protein VscX
+76,False,0.9754098360655737,0.40336134453781514,119,A8T5K9/2-124 [subseq from] Putative type III secretion protein
+77,False,0.9836065573770492,0.39166666666666666,120,A0A9X3MD23/1-124 [subseq from] Type III secretion system protein VscX
+78,False,0.9836065573770492,0.39166666666666666,120,K5TZL7/1-124 [subseq from] YscX family type III secretion protein
+79,False,0.9836065573770492,0.39166666666666666,120,A0A128FHP5/1-124 [subseq from] Yop proteins translocation protein X
+80,False,0.9590163934426229,0.36752136752136755,117,A0A5N8UVP6/4-124 [subseq from] YscX family type III secretion protein
+81,False,0.9836065573770492,0.38333333333333336,120,Q66PU0/1-124 [subseq from] Putative TTSS protein X
+82,False,0.9836065573770492,0.4,120,A7MZ80/1-124 [subseq from] YscX family type III secretion protein
+83,False,0.9836065573770492,0.4,120,Q6QVR7/1-124 [subseq from] VscX
+84,False,0.9590163934426229,0.358974358974359,117,"A0A1S6HYI8/4-124 [subseq from] Type III secretion protein, YscX family"
+85,False,0.9836065573770492,0.38333333333333336,120,A0A454CV53/1-124 [subseq from] Type III secretion protein
+86,False,0.9590163934426229,0.37606837606837606,117,A0AAE5GPP9/4-124 [subseq from] YscX family type III secretion protein
+87,False,0.9590163934426229,0.37606837606837606,117,F9T798/4-124 [subseq from] Type III secretion protein
+88,False,0.9754098360655737,0.3865546218487395,119,U3AXB0/2-124 [subseq from] Putative type III secretion system protein
+89,False,0.9836065573770492,0.39166666666666666,120,A0A7V7NQI4/1-124 [subseq from] YscX family type III secretion protein
+90,False,0.9836065573770492,0.375,120,E3BLV1/1-124 [subseq from] Yop proteins translocation protein X
+91,False,0.9590163934426229,0.3418803418803419,117,"A0A0H3ZVF1/4-124 [subseq from] Type III secretion protein, YscX family"
+92,False,0.9590163934426229,0.3418803418803419,117,A0A0H4A1D0/4-124 [subseq from] Type III secretion system protein VscX
+93,False,0.9672131147540983,0.3728813559322034,118,A0A4Q9JYV9/4-125 [subseq from] Type III secretion system protein VscX
+94,False,0.9672131147540983,0.3728813559322034,118,X2EZK2/4-125 [subseq from] Putative type III secretion protein
+95,False,0.9672131147540983,0.3728813559322034,118,A0A7Y0XBC2/3-124 [subseq from] Type III secretion protein
+96,False,0.9672131147540983,0.3728813559322034,118,A0A7T4Q594/3-124 [subseq from] Type III secretion protein
+97,False,0.9672131147540983,0.3728813559322034,118,A0A7Y0SD09/3-124 [subseq from] Type III secretion system protein VscX
+98,False,0.9672131147540983,0.3728813559322034,118,A0AA46UL83/3-124 [subseq from] Type III secretion system protein VscX
+99,False,0.9672131147540983,0.3644067796610169,118,A0AAX2VD50/4-125 [subseq from] YscX family type III secretion protein
+100,False,0.9672131147540983,0.3728813559322034,118,"A0A511QDT5/2-123 [subseq from] Type III secretion protein, YscX family"
+101,False,0.9672131147540983,0.3559322033898305,118,A0AAX1XI93/3-124 [subseq from] YscX family type III secretion protein
+102,False,0.9672131147540983,0.3559322033898305,118,A0A2I3C4M4/3-124 [subseq from] Uncharacterized protein
+103,False,0.9672131147540983,0.3559322033898305,118,A0AAW9AXH4/3-124 [subseq from] Type III secretion system protein VscX
+104,False,0.9672131147540983,0.3474576271186441,118,A0AAW9AJZ7/3-124 [subseq from] Type III secretion system protein VscX
+105,False,0.9672131147540983,0.3559322033898305,118,A0AAE4M6K2/3-124 [subseq from] YscX family type III secretion protein
+106,False,0.9672131147540983,0.3559322033898305,118,A0AAP5Y869/3-124 [subseq from] Type III secretion system protein VscX
+107,False,0.9672131147540983,0.3559322033898305,118,A0AAP5YY78/3-124 [subseq from] Type III secretion system protein VscX
+108,False,0.9672131147540983,0.3559322033898305,118,D0VFM4/3-124 [subseq from] VscX
+109,False,0.9672131147540983,0.3559322033898305,118,A0A2L2K1N6/3-124 [subseq from] Type III secretion system protein VscX
+110,False,0.9672131147540983,0.3559322033898305,118,A0AAW6ZMH4/3-124 [subseq from] Type III secretion system protein VscX
+111,False,0.9672131147540983,0.3559322033898305,118,A0A0G2UM33/3-124 [subseq from] Putative T3SS secretion protein
+112,False,0.9672131147540983,0.3474576271186441,118,A0AAW9BP18/3-124 [subseq from] Type III secretion system protein VscX
+113,False,0.9590163934426229,0.3162393162393162,117,A0A7W3ZX45/4-124 [subseq from] YscX family type III secretion protein
+114,False,0.9672131147540983,0.3474576271186441,118,A0A7Y4B588/3-124 [subseq from] YscX family type III secretion protein
+115,False,0.7950819672131147,0.36082474226804123,97,A0A2W7L8C8/25-121 [subseq from] Type III secretion protein X
+116,False,0.7786885245901639,0.37894736842105264,95,A0A1H9KX26/27-121 [subseq from] Type III secretion protein X
+117,False,0.7868852459016393,0.3645833333333333,96,A0A2V4IE40/162-257 [subseq from] Uncharacterized protein
+118,False,0.7786885245901639,0.3684210526315789,95,A0AAJ5MGG2/27-121 [subseq from] Type III secretion protein X
+119,False,0.7786885245901639,0.3684210526315789,95,A0A2L0LZE2/27-121 [subseq from] Type III secretion protein
+120,False,0.819672131147541,0.35,100,A0A923GD61/22-121 [subseq from] Type III secretion protein X
+121,False,0.7049180327868853,0.36046511627906974,86,A0AA42RX86/3-88 [subseq from] Type III secretion protein
+122,False,0.6229508196721312,0.32894736842105265,76,A0A7Y0XEI2/3-78 [subseq from] Type III secretion system protein VscX (Fragment)
+123,False,0.8114754098360656,0.3333333333333333,99,A0AAD0QVT7/31-130 [subseq from] Uncharacterized protein
+124,False,0.7049180327868853,0.3372093023255814,86,A0A8H9ZAB4/3-88 [subseq from] Type III secretion protein
+125,False,0.7295081967213115,0.3595505617977528,89,A0A0F7Y6D0/30-118 [subseq from] Type III secretion protein
+126,False,0.6885245901639344,0.35714285714285715,84,A0A968N8C3/129-213 [subseq from] GAF domain-containing protein
+127,False,0.6475409836065574,0.34177215189873417,79,A0A968N8C3/307-386 [subseq from] GAF domain-containing protein
+128,False,0.7213114754098361,0.3181818181818182,88,A0A968N8C3/488-576 [subseq from] GAF domain-containing protein
+129,False,0.5,0.36065573770491804,61,A0A227J6T9/4-64 [subseq from] YscX family type III secretion protein (Fragment)

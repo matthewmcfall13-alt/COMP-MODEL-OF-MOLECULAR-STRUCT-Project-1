@@ -1,0 +1,34 @@
+{
+  "source": "label.xlsx",
+  "sha256": "d0b7b80435a9efd25484cd7cb1be48aa48e9f23636cb1423ef49d17efd01d760",
+  "interpretation": "Original prior-search summary only; database/method/date not supplied; not generated DeepMSA or AF results",
+  "records": [
+    {
+      "Target": "T1106s1",
+      "Length": "122",
+      "Hits": "93",
+      "Query Cover": "Many 100%",
+      "Identity": "Most ~50%",
+      "Best E-value": "4.9999999999999998E-83",
+      "Support": "Intermediate"
+    },
+    {
+      "Target": "T1151s2",
+      "Length": "116",
+      "Hits": "100",
+      "Query Cover": "Most ~80%",
+      "Identity": "Most 70%~80%",
+      "Best E-value": "4E-78",
+      "Support": "higher"
+    },
+    {
+      "Target": "T1122",
+      "Length": "241",
+      "Hits": "1",
+      "Query Cover": "1",
+      "Identity": "1",
+      "Best E-value": "8.9999999999999996E-178",
+      "Support": "lower"
+    }
+  ]
+}

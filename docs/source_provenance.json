@@ -1,0 +1,52 @@
+{
+  "retrieval_date": "2026-09-22",
+  "server_acceptance": "UNVERIFIED; no submissions performed",
+  "repository": {
+    "url": "https://github.com/matthewmcfall13-alt/COMP-MODEL-OF-MOLECULAR-STRUCT-Project-1",
+    "revision": "8583b70bca46f63e9886b7c9ee812a8e5299f53b",
+    "original_files": [
+      "T1106s1.fasta",
+      "T1122.fasta",
+      "T1151s2.fasta",
+      "label.xlsx"
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/google-deepmind/alphafold/main/server/README.md",
+      "status": "RETRIEVED",
+      "sha256": "5e89637654e088bcb32b5d4776741e74c3f30c062dcf09f6b49bbeb30c44bcd5",
+      "retrieved_utc": "2026-09-22T19:10:56.468085+00:00",
+      "snapshot": "docs\\alphafold_server_schema.md"
+    },
+    {
+      "url": "https://zhanggroup.org/DeepMSA2/",
+      "status": "RETRIEVAL_FAILED",
+      "reason": "HTTP Error 403: Forbidden",
+      "manual_verification_required": true
+    },
+    {
+      "url": "https://www.ebi.ac.uk/training/online/courses/alphafold/alphafold-3-and-alphafold-server/alphafold-server-your-gateway-to-alphafold-3/interpreting-results-from-alphafold-server/",
+      "status": "VERIFIED_VIA_WEB_TOOL",
+      "retrieved_date": "2026-09-22"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pylelab/USalign/master/TMscore.cpp",
+      "status": "VERIFIED_DOCUMENTATION_ONLY; executable not installed"
+    },
+    {
+      "url": "https://openstructure.org/docs/2.11/mol/alg/lddt/",
+      "status": "VERIFIED_DOCUMENTATION_ONLY"
+    },
+    {
+      "local_source": "../presentation_work/source_audit_extracts/2_Sequence_alignment_v7.pdf.txt",
+      "pages": "102-103, 156-158",
+      "finding": "Unordered BLOSUM pair scoring; 3 CASP15 single-chain targets; default/custom MSA, experimental reference comparison"
+    },
+    {
+      "local_source": "../presentation_work/source_audit_extracts/3_protein_TBM_2024_v3 (1).pdf.txt",
+      "pages": "89",
+      "finding": "RMSD, TM-score, GDT-TS, MolProbity named"
+    }
+  ]
+}

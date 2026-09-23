@@ -1,0 +1,89 @@
+{
+  "repo_root": ".",
+  "data_root": "data",
+  "study_targets": [
+    "T1188",
+    "T1106s1",
+    "T1122"
+  ],
+  "uploaded_analysis": {
+    "enabled": true,
+    "source_fasta": "targets/target_sequences.fasta",
+    "targets": {
+      "T1188": {
+        "fasta_record_id": "T1188_Easy_8C6Z",
+        "reference_path": "structures/experimental/8C6Z.pdb",
+        "reference_chain": "A",
+        "reference_assignment_source": "https://predictioncenter.org/casp15/targetlist.cgi?view=regular",
+        "reference_chain_source": "analysis/analysis_summary.md (8C6Z has one protein chain, A)",
+        "conditions": {
+          "Automatic_MMseqs2": {
+            "alignment_path": "msa/easy_T1188/T1188_Easy_Automatic_MMseqs2.a3m",
+            "model_path": "structures/predicted/T1188_Easy_Automatic_MMseqs2_rank1.pdb",
+            "reported_condition": "Automatic MMseqs2",
+            "model_chain": "A"
+          },
+          "Custom_HMMER": {
+            "alignment_path": "msa/easy_T1188/T1188_Easy_Custom_HMMER.a3m",
+            "model_path": "structures/predicted/T1188_Easy_Custom_HMMER_rank1.pdb",
+            "reported_condition": "Custom HMMER",
+            "model_chain": "A"
+          },
+          "Custom_DeepMSA2": {
+            "alignment_path": "msa/easy_T1188/T1188_Easy_Custom_DeepMSA2.a3m",
+            "model_path": "structures/predicted/T1188_Easy_Custom_DeepMSA2_rank1.pdb",
+            "reported_condition": "Custom DeepMSA2",
+            "model_chain": "A"
+          }
+        }
+      },
+      "T1106s1": {
+        "fasta_record_id": "T1106s1_Moderate_7QIH",
+        "reference_path": "structures/experimental/7QIH.pdb",
+        "reference_chain": "B",
+        "reference_assignment_source": "https://predictioncenter.org/casp15/targetlist.cgi?view=regular",
+        "reference_chain_source": "analysis/analysis_summary.md (7QIH chain B; sequence mapping independently checked)",
+        "conditions": {
+          "Automatic_MMseqs2": {
+            "alignment_path": "msa/moderate_T1106s1/T1106s1_Moderate_Automatic_MMseqs2.a3m",
+            "model_path": "structures/predicted/T1106s1_Moderate_Automatic_MMseqs2_rank1.pdb",
+            "reported_condition": "Automatic MMseqs2",
+            "model_chain": "A"
+          },
+          "Custom_HMMER": {
+            "alignment_path": "msa/moderate_T1106s1/T1106s1_Moderate_Custom_HMMER.a3m",
+            "model_path": "structures/predicted/T1106s1_Moderate_Custom_HMMER_rank1.pdb",
+            "reported_condition": "Custom HMMER",
+            "model_chain": "A"
+          }
+        }
+      },
+      "T1122": {
+        "fasta_record_id": "T1122_Hard_8BBT",
+        "reference_path": "structures/experimental/8BBT.pdb",
+        "reference_chain": "A",
+        "reference_assignment_source": "https://predictioncenter.org/casp15/targetlist.cgi?view=regular",
+        "reference_chain_source": "analysis/analysis_summary.md (8BBT chain A; sequence mapping independently checked)",
+        "conditions": {
+          "Automatic_MMseqs2": {
+            "alignment_path": "msa/hard_T1122/T1122_Hard_Automatic_MMseqs2.a3m",
+            "model_path": "structures/predicted/T1122_Hard_Automatic_MMseqs2_rank1.pdb",
+            "reported_condition": "Automatic MMseqs2",
+            "model_chain": "A"
+          },
+          "Custom_HMMER": {
+            "alignment_path": "msa/hard_T1122/T1122_Hard_Custom_HMMER.a3m",
+            "model_path": "structures/predicted/T1122_Hard_Custom_HMMER_rank1.pdb",
+            "reported_condition": "Custom HMMER",
+            "model_chain": "A"
+          }
+        }
+      }
+    },
+    "declared_prediction_method": "AlphaFold2 through ColabFold v1.6.3",
+    "af2_accepted": true,
+    "team_results_accepted": true,
+    "scope_decision": "Matthew accepted AF2 and existing teammate results on 2026-09-23. Complete local analysis; no additional prediction jobs or independent verification required.",
+    "publish_results": true
+  }
+}

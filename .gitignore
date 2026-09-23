@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/
+outputs/reviews/
+outputs/diagnostics/
+*.pyc
+config.local.json
+# Custom-MSA JSON embeds potentially large alignments; keep local and package by size.
+submissions/**/*_DEEPMSA_*.json
+
+# Local history, downloads and bulky reproducible intermediates stay local.
+outputs/
+submissions/
+target_manifest.json

@@ -1,0 +1,4 @@
+# Preserve artifact bytes so ownership hashes survive Windows/Linux checkouts.
+results/matthew_analysis/** -text
+# The ownership manifest is ordinary JSON and does not hash itself.
+results/matthew_analysis/.generated_manifest.json text eol=lf

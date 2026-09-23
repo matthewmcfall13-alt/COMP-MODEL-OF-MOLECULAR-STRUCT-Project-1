@@ -1,0 +1,36 @@
+{
+  "repo_root": "..",
+  "data_root": "data",
+  "selected_targets": [
+    "T1106s1",
+    "T1122",
+    "T1151s2"
+  ],
+  "pilot": "T1122",
+  "pilot_rationale": "Only selected FASTA whose original header is not explicitly a complex subunit; eligibility remains unresolved.",
+  "input_overrides": {},
+  "seed": 42,
+  "proposed_deepmsa_mode": "fast",
+  "tmscore_executable": null,
+  "targets": {
+    "T1106s1": {
+      "deepmsa": {},
+      "AUTO": {},
+      "DEEPMSA": {},
+      "reference": {}
+    },
+    "T1122": {
+      "deepmsa": {},
+      "AUTO": {},
+      "DEEPMSA": {},
+      "reference": {}
+    },
+    "T1151s2": {
+      "deepmsa": {},
+      "AUTO": {},
+      "DEEPMSA": {},
+      "reference": {}
+    }
+  },
+  "description": "Archived AF3 submission preparation only; not the final AF2 study. Final analysis uses root config.json."
+}
