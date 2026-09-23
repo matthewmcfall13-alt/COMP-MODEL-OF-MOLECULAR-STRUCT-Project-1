@@ -1,0 +1,8 @@
+Difficulty,Target,PDB,Condition,MSA_depth,Rank1_model,pLDDT,pTM,TM_score,lDDT_CA,RMSD_CA_A,Mapped_residues,Resolution_A,RMSD100_A
+Easy,T1188,8C6Z,Automatic MMseqs2,11337,alphafold2_ptm_model_3_seed_000,90.66,0.885,0.99,96.88,0.87,573,1.85,0.46
+Easy,T1188,8C6Z,Custom HMMER,213,alphafold2_ptm_model_3_seed_000,89.72,0.878,0.99,96.28,0.88,573,1.85,0.47
+Easy,T1188,8C6Z,Custom DeepMSA2,25136,alphafold2_ptm_model_3_seed_000,90.86,0.885,0.991,96.63,0.84,573,1.85,0.45
+Moderate,T1106s1,7QIH,Automatic MMseqs2,113,alphafold2_ptm_model_3_seed_000,70.69,0.413,0.674,86.28,3.82,71,1.92,4.6
+Moderate,T1106s1,7QIH,Custom HMMER,130,alphafold2_ptm_model_3_seed_000,72.63,0.422,0.645,88.48,6.78,71,1.92,8.18
+Hard,T1122,8BBT,Automatic MMseqs2,3,alphafold2_ptm_model_4_seed_000,45.42,0.493,0.426,50.44,20.82,230,1.69,14.7
+Hard,T1122,8BBT,Custom HMMER,1,alphafold2_ptm_model_5_seed_000,45.82,0.464,0.496,55.9,19.95,230,1.69,14.08
